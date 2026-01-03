@@ -1,0 +1,4 @@
+AWS_ACCESS_KEY = "AKIARQTU3FTHXSYXDNS6"
+AWS_SECRET_KEY = "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"
+AWS_REGION     = "us-east-1"
+Security_Group = "sg-0bde8ebdc70a9a65d"
